@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1680878946,
+	"version": 1680542893,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,11 +69,11 @@
 		"media/shooter synthwave 1.m4a",
 		"media/(soft loop for dialogues, pause or other things) 9.ogg",
 		"media/(soft loop for dialogues, pause or other things) 9.m4a",
-		"icon-114.png",
-		"icon-256.png",
-		"icon-128.png",
-		"icon-32.png",
 		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
 		"loading-logo.png",
 		"pathfind.js"
 	]
